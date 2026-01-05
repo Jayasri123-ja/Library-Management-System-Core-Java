@@ -21,20 +21,14 @@ The project demonstrates **object-oriented programming (OOP)**, **collections**,
 ## How to Run
 
 1. Download or clone the repository:
-   git clone <your-repository-link>
-  
+   git clone <your-repository-link>  
 2. Open **Command Prompt** and navigate to the project folder:
-   cd Desktop\LibraryManagementSystem
- 
+   cd Desktop\LibraryManagementSystem 
 3. Compile the Java files:
-   javac library\Book.java library\Library.java
-  
+   javac library\Book.java library\Library.java  
 4. Run the program:
    java library.Library
-  
-5. Follow the **menu instructions** to add, view, issue, or return books.
-
-
+5. Follow the **menu instructions** to add, view, issue, or return books
 
 ## Sample Output
 1.Add Book
@@ -61,9 +55,5 @@ Choose option: 4
 Enter Book ID: 101
 Book Returned
 
-
-## Resume-Friendly Description
-
-* Implemented a **console-based Library Management System using Core Java**, applying OOP principles and collections for efficient data handling.
 
 
